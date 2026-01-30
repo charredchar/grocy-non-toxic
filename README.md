@@ -1,4 +1,7 @@
-The exact same as Grocy but without the awful and toxic behavor of the author.
+<div align="center">
+	The exact same as Grocy but without the awful and toxic behavor of the author.
+</div>
+
 
 -----
 
@@ -6,7 +9,7 @@ The exact same as Grocy but without the awful and toxic behavor of the author.
 <img alt="Logo" height="50" src="https://raw.githubusercontent.com/grocy/grocy/master/public/img/logo.svg?sanitize=true" />
 <h2>ERP beyond your fridge</h2>
 <h3>Grocy is a web-based self-hosted groceries & household management solution for your home</h3>
-<em><h4>This is a hobby project by <a href="https://berrnd.de">Bernd Bestel</a></h4></em>
+<em><h4>This is a hobby project by Bernd Bestel</h4></em>
 </div>
 
 -----
@@ -22,10 +25,12 @@ See the website. &rarr; <https://grocy.info>
 
 ## Questions / Help / Bug Reports / Feature Requests
 
-- General help and usage questions &rarr;  [r/grocy subreddit](https://www.reddit.com/r/grocy)
-- Bug Reports and Feature Requests &rarr; [Issue Tracker](https://github.com/grocy/grocy/issues/new/choose)
+~~- General help and usage questions &rarr;  [r/grocy subreddit](https://www.reddit.com/r/grocy)~~
+~~- Bug Reports and Feature Requests &rarr; [Issue Tracker](https://github.com/grocy/grocy/issues/new/choose)~~
 
-_Please don't send me private messages or call me regarding anything Grocy. I check the issue tracker and the subreddit pretty much daily, but don't provide any support beyond that._
+~~_Please don't send me private messages or call me regarding anything Grocy. I check the issue tracker and the subreddit pretty much daily, but don't provide any support beyond that._~~
+
+<sub>You're probably want to avoid these. Sorry, you're on your own.</sub>
 
 ## Community contributions
 
@@ -166,10 +171,6 @@ When the `MODE` setting is set to `dev`, `demo` or `prerelease`, the application
 When the file `embedded.txt` exists, it must contain a valid and writable path which will be used as the data directory instead of `data` and authentication will be disabled (used in [Grocy Desktop](https://github.com/grocy/grocy-desktop)).
 
 In embedded mode, settings can be overridden by text files in `data/settingoverrides`, the file name must be `<SettingName>.txt` (e. g. `BASE_URL.txt`) and the content must be the setting value (normally one single line).
-
-## Contributing / Say Thanks
-
-Any help is welcome, feel free to contribute anything which comes to your mind or see <https://grocy.info/#say-thanks> if you just want to say thanks.
 
 ## Roadmap
 
