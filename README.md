@@ -1,3 +1,5 @@
+The exact same as Grocy but without the awful and toxic behavor of the author.
+
 -----
 
 <div align="center">
